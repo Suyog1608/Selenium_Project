@@ -29,9 +29,11 @@ Using a webdriver provides
 
 **BROWSER DRIVER**
 
-  ChromeDriver is for Chrome \n
-  geckodriver is for Firefox \n
+  ChromeDriver is for Chrome
+  geckodriver is for Firefox 
+  
   Edgedriver is for Microsooft edge \n
+  
   safariDriver if for aple browser \n
 
 
